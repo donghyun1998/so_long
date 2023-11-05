@@ -7,4 +7,5 @@
 
 1. solong 디렉토리로 들어가서 make를 누릅니다.
 2. ./solong maps/valid/classic.ber 로 실행시킵니다.
+
 maps/valid 폴더 안에 다른 맵들도 있으니 실행해 보세요!
